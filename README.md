@@ -123,6 +123,7 @@ You'll get a certificate warning because the default installation uses a self-si
 
 Proceed to the Wazuh dashboard.
 Your final setup
+
                     WINDOWS 11
                     8 GB RAM
                         │
