@@ -12,17 +12,12 @@ We'll eventually have:
                     │
                   NAT
                     │
-
-                    
              ┌─────────────┐
              │    Wazuh    │
              │     VM      │
              └──────┬──────┘
                     │
              PRIVATE SOC LAN
-
-
-             
                     │
              ┌──────┴──────┐
              │             │
