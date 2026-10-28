@@ -291,7 +291,7 @@ Run:
 
 
 
-<img width="1919" height="975" alt="Screenshot 2026-09-09 163726" src="https://github.com/user-attachments/assets/318b3c42-936d-4857-a737-53de9e22b7e7" />
+![Uploading Screenshot 2026-09-27 153826.png…]()
 
  
 <img width="1910" height="915" alt="Screenshot 2026-10-26 163516" src="https://github.com/user-attachments/assets/05a6845f-e5e1-4d31-80f9-6f9899758b11" />
