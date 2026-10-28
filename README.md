@@ -12,6 +12,7 @@ We'll eventually have:
                     │
                   NAT
                     │
+                    
              ┌─────────────┐
              │    Wazuh    │
              │     VM      │
@@ -19,6 +20,7 @@ We'll eventually have:
                     │
              PRIVATE SOC LAN
                     │
+                    
              ┌──────┴──────┐
              │             │
            Kali         Windows
